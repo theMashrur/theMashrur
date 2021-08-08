@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi there 👋. My name is Mashrur Khondokar
+<p align="center"><a href="https://www.nvidia.com/en-gb/geforce/graphics-cards/30-series/rtx-3070-3070ti/"><img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="nvidia"></a> 
+<a href="https://www.amd.com/en/products/cpu/amd-ryzen-5-3600"><img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&amp;logo=amd&amp;logoColor=white" alt="amd"></a>
+  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" alt="vsc"></a>
+  <a href="https://www.linkedin.com/in/mashrur-khondokar-b734a6214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a></p>
+  
+- Currently a 2nd year Mathematics MSci student at Imperial College London. I'm interested in Data Science and Deep Learning 
+- I'm  learning Japanese at the moment. At the beginner/intermediate level🌱
+- I game and code in my spare time. Love me some Doom Eternal
 <!--
 **theMashrur/theMashrur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
