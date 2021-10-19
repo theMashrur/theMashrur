@@ -4,10 +4,12 @@
   <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" alt="vsc"></a>
   <a href="https://www.linkedin.com/in/mashrur-khondokar-b734a6214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a></p>
   
-- Currently a 2nd year Mathematics student at Imperial College London. I'm interested in Data Science and Deep Learning as well as Algorithmic Trading
-- I'm  learning Japanese at the moment. At the beginner/intermediate level🌱
-- I game and code in my spare time. Love me some Doom Eternal
-- I also trade on the stock and cryptocurrency markets in my spare time too
+- Currently a 2nd year Mathematics student at Imperial College London. 
+- I'm interested in Data Science and Deep Learning as well as Algorithmic Trading
+- Learning Japanese at the moment. At the beginner/intermediate level🌱
+- I game and code in my spare time.
+- I trade on the stock and cryptocurrency markets in my spare time too
+- I take part in my university's Kendo, and Muay Thai Societies
 <!--
 **theMashrur/theMashrur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
