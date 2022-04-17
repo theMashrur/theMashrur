@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 -->
 [![My GitHub Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theMashrur&theme=dracula)]()
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theMashrur&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theMashrur&theme=dracula)
