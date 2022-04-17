@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My GitHub Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theMashrur&theme=dracula)]()
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theMashrur&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theMashrur&theme=dracula)
+[![My GitHub Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theMashrur&theme=tokyonight)]()
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theMashrur&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theMashrur&theme=tokyonight)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=theMashrur&count_private=true&theme=tokyonight&showicons=true)]()
